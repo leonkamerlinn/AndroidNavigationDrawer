@@ -18,6 +18,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ListviewDrawerlayoutActivity" />
+        <activity
+            android:name=".NavigationViewDrawerLayoutActivity"
+            android:label="@string/title_activity_navigation_view_drawer_layout"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
