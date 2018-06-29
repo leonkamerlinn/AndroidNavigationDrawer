@@ -22,7 +22,7 @@
         <activity
             android:name=".NavigationViewDrawerLayoutActivity"
             android:label="@string/title_activity_navigation_view_drawer_layout"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
